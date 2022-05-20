@@ -1,0 +1,25 @@
+<?php
+return [
+    'home'=>'Asosiy',
+    'about'=>'Biz haqimizda',
+    'page'=>'Sahifalar',
+    'blog'=>'Blog',
+    'contact'=>'Bog\'lanish',
+    'login'=>'Kirish',
+    'sign'=>'Ro\'yhatdan o\'tish',
+    'cabinet'=>'Mening Kabinetim',
+    'banner_title'=>'DUNYODAGI ENG OLIY ONLAYN TA\'LIM XIZMATI',
+    'banner_title_2'=>'BU MAVSUM YANA BIR QADAM YUQORIGA',
+    'b_btn_1'=>'Batafsil',
+    'b_btn_2'=>'Barcha kurslar',
+    'srch'=>'Buyerda qidiring',
+    'aw'=>'Ajoyib xususiyat',
+    'subtitle'=>'To\'ldirish odam narsa yig\'ish chiroqlar sizga beradi',
+    'courses'=>'Bizning Ommaviy Kurslarimiz',
+    'co_tit'=>'To\'ldirish odam narsa yig\'ish chiroqlar sizga beradi',
+    'btn_view'=>'Batafsil',
+    'btn_view_all' => 'Barcha maqolalar',
+    'upc'=>'Kelgusi voqealar',
+    'upc_st'=>'To\'ldirish odam narsa yig\'ish chiroqlar sizga beradi',
+
+];
